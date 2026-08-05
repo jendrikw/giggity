@@ -1,0 +1,25 @@
+{
+	"version": 201260805,
+	"url": "https://cfp.eurofurence.org/ef-schedule-2026/api/schedule/pretalx.xml",
+	"title": "Eurofurence 30",
+	"start": "2026-08-18",
+	"end": "2026-08-23",
+	"timezone": "Europe/Berlin",
+	"metadata": {
+		"icon": "https://www.eurofurence.org/EF30/img/icon/favicon-96x96.png",
+		"links": [
+			{
+				"url": "https://www.eurofurence.org/EF30/",
+				"title": "Website"
+			},
+			{
+				"url": "https://cfp.eurofurence.org/ef-schedule-2026/",
+				"title": "Online Schedule"
+			},
+			{
+				"url": "https://nav.eurofurence.org/",
+				"title": "EFnav (Interactive Map)"
+			}
+		]
+	}
+}
